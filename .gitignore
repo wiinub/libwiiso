@@ -1,0 +1,7 @@
+*~
+*.o
+*.d
+demo
+demo-static
+wiiso/libwiiso.a
+wiiso/libwiiso.so
